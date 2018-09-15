@@ -1,0 +1,12 @@
+/* CSS used here will be applied after bootstrap.css */
+
+@charset "UTF-8"; 
+/*CSS Document for My Portfolio Page*/
+
+.background-image {
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
